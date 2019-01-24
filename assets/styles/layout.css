@@ -352,7 +352,7 @@ table a, #comments a{background-color:inherit;}
 }
 
 .menu_fondo{
-	background-image: url('../../images/stucco.jpg');
+	background-image: url('../images/stucco.jpg');
 }
 
 .menu-fixed {
@@ -373,7 +373,7 @@ table a, #comments a{background-color:inherit;}
 }
 
 .imagen_index{
-	background-image:url('../../images/bosque.jpg');
+	background-image:url('../images/bosque.jpg');
 	background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -425,7 +425,7 @@ table a, #comments a{background-color:inherit;}
 	line-height: 1.45;
 	position: relative;
 //	color: #383838;
-	background-image: url("../../images/comillas.png");
+	background-image: url("../images/comillas.png");
 	background-repeat: no-repeat;
 	background-position: "left";
 }
